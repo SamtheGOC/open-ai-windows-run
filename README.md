@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>AI Buddy</title>
+	
 </head>
 <body>
 	<h1>AI Buddy</h1>
@@ -35,4 +35,4 @@
 	<li><a href="https://openai.com/">OpenAI</a> for the Chat GPT-3 model</li>
 	<li><a href="https://pypi.org/project/pyperclip/">pyperclip</a> for clipboard functionality</li>
 	<li><a href="https://pypi.org/project/plyer/">plyer</a> for notification functionality (optional)</li>
-</ul>"# open-ai-windows-run" 
+
