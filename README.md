@@ -36,3 +36,4 @@
 	<li><a href="https://pypi.org/project/pyperclip/">pyperclip</a> for clipboard functionality</li>
 	<li><a href="https://pypi.org/project/plyer/">plyer</a> for notification functionality (optional)</li>
 
+	<img src="Screenshot.png" alt="Screenshot of AI Buddy">
